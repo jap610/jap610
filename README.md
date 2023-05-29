@@ -2,12 +2,12 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://m4dm0e.github.io/">Alhasan Ahmed</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/jap610">Alhasan Ahmed</a></b>.
     <br>I'm a programer.<br>
 
 </samp>
 
-  <img src="./pArt.gif" width="200"/>
+  <img src="./pArt.gif" width="300"/>
 </p>
 
 
@@ -47,6 +47,6 @@ My name is Alhasan Ahmed 21 y/o Full-stack web development, Mobile application d
 
 <p align="center"> 
   <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jap610_title=true&show_icons=true&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jap610&hide_title=true&show_icons=true&theme=vue-dark" />
 </p>
  
