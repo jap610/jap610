@@ -7,7 +7,7 @@
 
 </samp>
 
-  <img src="./assets/pArt.gif" width="200"/>
+  <img src="./pArt.gif" width="200"/>
 </p>
 
 
