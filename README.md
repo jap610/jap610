@@ -23,7 +23,7 @@ My name is Alhasan Ahmed 21 y/o Full-stack web development, Mobile application d
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![DART](https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg)
+![DART](https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=fff)
 <br />
 <br />
 
