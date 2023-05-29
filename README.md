@@ -35,9 +35,9 @@ My name is Alhasan Ahmed 21 y/o Full-stack web development, Mobile application d
 
 
 <p align="center">
-<a href="https://twitter.com/@JAPANESIA610"><img alt="Website" src="https://img.shields.io/twitter/follow/m4dm0e.svg?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/@JAPANESIA610"><img alt="Website" src="https://img.shields.io/twitter/follow/JAPANESIA610.svg?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/hasan-alrawii-445a70226/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alhasan%20Al%20Ahmed-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://hackerone.com/jap60"><img alt="Email" src="https://img.shields.io/badge/Hackerone-m4dm0e-blue?style=flat-square&logo=hackerone"></a>
+<a href="https://hackerone.com/jap60"><img alt="Email" src="https://img.shields.io/badge/Hackerone-jap60-blue?style=flat-square&logo=hackerone"></a>
 </p>
 <br />
 
