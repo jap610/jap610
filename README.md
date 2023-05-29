@@ -6,7 +6,7 @@
     <br>I'm a programer.<br>
 
 </samp>
-  <img src="./pArt.gif" width="300"/>
+  <img src="./pArt.gif" width="200"/>
 </p>
 
 
